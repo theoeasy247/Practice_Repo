@@ -12,4 +12,4 @@ def find_smallest(numbers):
     return smallest
 
 numbers = [56, 90, 34, 21, 25]
-print(find_smallest(numbers))
+print(f"Smallest is {find_smallest(numbers)}")
